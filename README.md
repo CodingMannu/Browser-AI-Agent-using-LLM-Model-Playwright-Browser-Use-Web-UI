@@ -4,11 +4,11 @@ Browser AI Agent using any LLM Model + Playwright + Browser-Use + Web-UI(Control
 🌐 Browser Use WebUI - Control your browser with AI assistance
 
 Important url:
-      https://github.com/browser-use/browser-use
-      https://github.com/browser-use/web-ui
-      https://docs.astral.sh/uv/#highlights
-      https://aistudio.google.com/apikey
-      http://127.0.0.1:7788
+      - https://github.com/browser-use/browser-use
+      - https://github.com/browser-use/web-ui
+            - https://docs.astral.sh/uv/#highlights
+      - https://aistudio.google.com/apikey
+      - http://127.0.0.1:7788
 
 
 Step 1:
